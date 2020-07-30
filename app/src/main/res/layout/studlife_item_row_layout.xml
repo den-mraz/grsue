@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/short_name_studLife"
+            android:theme="@style/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="34dp"
+            android:text="Короткое название"/>
+
+        <TextView
+            android:id="@+id/description_studLife"
+            android:layout_below="@id/short_name_studLife"
+            android:layout_alignStart="@id/short_name_studLife"
+            android:theme="@style/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="24dp"
+            android:text="Описание"/>
+
+        <TextView
+            android:id="@+id/basement_studLife"
+            android:layout_below="@id/description_studLife"
+            android:layout_alignStart="@id/description_studLife"
+            android:theme="@style/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="18dp"
+            android:text="Расположение"/>
+
+        <TextView
+            android:id="@+id/phone_studLife"
+            android:layout_below="@id/basement_studLife"
+            android:layout_alignStart="@id/basement_studLife"
+            android:theme="@style/TextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="5dp"
+            android:textSize="18dp"
+            android:text="Контакты"
+            />
+    </RelativeLayout>
+</LinearLayout>
+
+
+
+

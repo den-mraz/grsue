@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">РГЭУ(РИНХ)</string>
+
+    //тулбар
+    <string name="toolbar_settings">Настройки</string>
+    <string name="toolbar_help">Справка</string>
+    //тулбар
+
+
+    //меню
+    <string name="menu_rasp">Расписание</string>
+    <string name="menu_notification">Уведомления</string>
+    <string name="menu_teachers">Преподователи</string>
+    <string name="menu_news">Новости</string>
+    <string name="menu_studLive">Студ. жизнь</string>
+    <string name="menu_trustChat">Чат доверия</string>
+    //меню
+
+
+    //профиль
+    <string name="person">Denis Shcherbakov</string>
+    <string name="tag">"den.mraz@icloud.com"</string>
+    //профиль
+
+
+    //недели
+    <string name="chNShort">ЧН</string>
+    <string name="chN">Чётная</string>
+    <string name="chNFull">Чётная неделя</string>
+    \\
+    <string name="nNShort">НН</string>
+    <string name="nN">Нечётная</string>
+    <string name="nNFull">Нечётная неделя</string>
+    //недели
+
+
+    <string name="erconn">Пожалуйста, проверьте подключение к интернету</string>
+
+
+
+
+    <string name="option1">Option 1</string>
+    <string name="option2">Option 2</string>
+    <string name="option3">Option 3</string>
+    <string name="navDrawerOpen">Open navigation drawer</string>
+    <string name="navDrawerClose">Close navigation drawer</string>
+    <string name="messagesHeader">messages_header</string>
+    <string name="signatureTitle">signature_title</string>
+    <string name="replyTitle">reply_title</string>
+    <string name="syncHeader">sync_header</string>
+    <string name="syncTitle">sync_title</string>
+    <string name="attachmentSummaryOff">attachment_summary_off</string>
+    <string name="attachmentSummaryOn">attachment_summary_on</string>
+    <string name="attachmentTitle">attachment_title</string>
+
+</resources>
